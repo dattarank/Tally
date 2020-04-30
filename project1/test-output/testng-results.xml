@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Failed.. Please verify User Credentials and Try again]]>
+    </line>
+    <line>
+      <![CDATA[name: user1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[name: user2]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[name: user3]]>
+    </line>
+    <line>
+      <![CDATA[Laudantium non sit ut consequatur qui architecto eius dolorem ad assumenda inventore sed quis enim rerum nemo explicabo rerum mollitia minus ut aut cupiditate assumenda eos molestiae nisi aliquid aut quasi ut ex aperiam asperiores amet adipisci impedit aut sit et exercitationem molestiae et in quae itaque eligendi voluptatibus id quisquam iusto est aliquam dolor animi autem modi dolorem aliquam doloremque ipsam autem dignissimos repellendus dolores est laborum dolorem animi quaerat voluptatum totam ut et vel omnis corrupti commodi possimus aut vitae sunt vitae voluptatem velit velit hic in aut neque tenetur ut quia aut pariatur ut fuga alias nihil exercitationem debitis iusto earum sit perspiciatis tempore esse molestiae suscipit asperiores quis qui sint qui et dolore eum voluptatem earum ut fugit deserunt rerum blanditiis illum praesentium qui aspernatur dolores ratione voluptatibus nobis dolores quaerat et saepe sapiente et ipsam et nulla voluptas voluptas quia accusantium qui debitis cupiditate quia recusandae delectus at qui in velit et iste ab fugiat nam repudiandae nostrum ipsum laboriosam nobis ducimus id aut magni sed rerum eos excepturi sit qui dolore nihil et autem non nam harum facilis omnis non sint minima vero necessitatibus pariatur excepturi cumque illum ad sed eveniet maxime omnis commodi maxime aut ea non facere aut impedit labore voluptas et suscipit aut officiis repellat quia magni odio beatae consequatur officia quam perferendis qui unde similique ut doloribus eaque placeat quas voluptatem neque accusamus eius numquam placeat sapiente veniam sint labore quod natus eligendi sed nesciunt aut eum error officiis voluptatem et in sunt minus ut magnam nihil tempore quis saepe unde quo cumque nulla laudantium deleniti temporibus enim repellendus voluptatem fugiat odit voluptatem culpa sunt qui corporis est facilis sit ipsum maiores soluta iure modi qui voluptatem consequuntur voluptate eos libero quibusdam perferendis tenetur beatae ullam qui provident hic consectetur.]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89211" started-at="2020-01-25T10:17:05Z" finished-at="2020-01-25T10:18:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89211" started-at="2020-01-25T10:17:05Z" finished-at="2020-01-25T10:18:34Z">
+      <class name="script.Assignments">
+        <test-method status="PASS" signature="setup()[pri:0, instance:script.Assignments@7aecef]" name="setup" is-config="true" duration-ms="13146" started-at="2020-01-25T10:17:05Z" finished-at="2020-01-25T10:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidloginTest()[pri:1, instance:script.Assignments@7aecef]" name="ValidloginTest" duration-ms="8607" started-at="2020-01-25T10:17:18Z" finished-at="2020-01-25T10:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidloginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:script.Assignments@7aecef]" name="tearDown" is-config="true" duration-ms="143" started-at="2020-01-25T10:17:27Z" finished-at="2020-01-25T10:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:script.Assignments@7aecef]" name="setup" is-config="true" duration-ms="2659" started-at="2020-01-25T10:17:27Z" finished-at="2020-01-25T10:17:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invalidLoginTest()[pri:1, instance:script.Assignments@7aecef]" name="invalidLoginTest" duration-ms="15991" started-at="2020-01-25T10:17:30Z" finished-at="2020-01-25T10:17:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Failed.. Please verify User Credentials and Try again]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:script.Assignments@7aecef]" name="tearDown" is-config="true" duration-ms="92" started-at="2020-01-25T10:17:46Z" finished-at="2020-01-25T10:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:script.Assignments@7aecef]" name="setup" is-config="true" duration-ms="2569" started-at="2020-01-25T10:17:46Z" finished-at="2020-01-25T10:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="extractDynamicText()[pri:2, instance:script.Assignments@7aecef]" name="extractDynamicText" duration-ms="10417" started-at="2020-01-25T10:17:48Z" finished-at="2020-01-25T10:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractDynamicText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:script.Assignments@7aecef]" name="tearDown" is-config="true" duration-ms="58" started-at="2020-01-25T10:17:59Z" finished-at="2020-01-25T10:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:script.Assignments@7aecef]" name="setup" is-config="true" duration-ms="2639" started-at="2020-01-25T10:17:59Z" finished-at="2020-01-25T10:18:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyModalWindTest()[pri:2, instance:script.Assignments@7aecef]" name="verifyModalWindTest" duration-ms="10790" started-at="2020-01-25T10:18:01Z" finished-at="2020-01-25T10:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyModalWindTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:script.Assignments@7aecef]" name="tearDown" is-config="true" duration-ms="71" started-at="2020-01-25T10:18:12Z" finished-at="2020-01-25T10:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:script.Assignments@7aecef]" name="setup" is-config="true" duration-ms="2660" started-at="2020-01-25T10:18:12Z" finished-at="2020-01-25T10:18:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getUserNamesWithMouseHover()[pri:4, instance:script.Assignments@7aecef]" name="getUserNamesWithMouseHover" duration-ms="4359" started-at="2020-01-25T10:18:15Z" finished-at="2020-01-25T10:18:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[name: user1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[name: user2]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[name: user3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getUserNamesWithMouseHover -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:script.Assignments@7aecef]" name="tearDown" is-config="true" duration-ms="2346" started-at="2020-01-25T10:18:19Z" finished-at="2020-01-25T10:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:script.Assignments@7aecef]" name="setup" is-config="true" duration-ms="2630" started-at="2020-01-25T10:18:22Z" finished-at="2020-01-25T10:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="infiniteScroll()[pri:5, instance:script.Assignments@7aecef]" name="infiniteScroll" duration-ms="9931" started-at="2020-01-25T10:18:24Z" finished-at="2020-01-25T10:18:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Laudantium non sit ut consequatur qui architecto eius dolorem ad assumenda inventore sed quis enim rerum nemo explicabo rerum mollitia minus ut aut cupiditate assumenda eos molestiae nisi aliquid aut quasi ut ex aperiam asperiores amet adipisci impedit aut sit et exercitationem molestiae et in quae itaque eligendi voluptatibus id quisquam iusto est aliquam dolor animi autem modi dolorem aliquam doloremque ipsam autem dignissimos repellendus dolores est laborum dolorem animi quaerat voluptatum totam ut et vel omnis corrupti commodi possimus aut vitae sunt vitae voluptatem velit velit hic in aut neque tenetur ut quia aut pariatur ut fuga alias nihil exercitationem debitis iusto earum sit perspiciatis tempore esse molestiae suscipit asperiores quis qui sint qui et dolore eum voluptatem earum ut fugit deserunt rerum blanditiis illum praesentium qui aspernatur dolores ratione voluptatibus nobis dolores quaerat et saepe sapiente et ipsam et nulla voluptas voluptas quia accusantium qui debitis cupiditate quia recusandae delectus at qui in velit et iste ab fugiat nam repudiandae nostrum ipsum laboriosam nobis ducimus id aut magni sed rerum eos excepturi sit qui dolore nihil et autem non nam harum facilis omnis non sint minima vero necessitatibus pariatur excepturi cumque illum ad sed eveniet maxime omnis commodi maxime aut ea non facere aut impedit labore voluptas et suscipit aut officiis repellat quia magni odio beatae consequatur officia quam perferendis qui unde similique ut doloribus eaque placeat quas voluptatem neque accusamus eius numquam placeat sapiente veniam sint labore quod natus eligendi sed nesciunt aut eum error officiis voluptatem et in sunt minus ut magnam nihil tempore quis saepe unde quo cumque nulla laudantium deleniti temporibus enim repellendus voluptatem fugiat odit voluptatem culpa sunt qui corporis est facilis sit ipsum maiores soluta iure modi qui voluptatem consequuntur voluptate eos libero quibusdam perferendis tenetur beatae ullam qui provident hic consectetur.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- infiniteScroll -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:script.Assignments@7aecef]" name="tearDown" is-config="true" duration-ms="60" started-at="2020-01-25T10:18:34Z" finished-at="2020-01-25T10:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- script.Assignments -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
